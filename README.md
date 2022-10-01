@@ -21,6 +21,15 @@ Pull request and add any feature to the website.:octocat:
 * [Click here to visit the website.](https://hacktoberfest.com/)
 * [Click here to register for hacktoberfest2022.](https://hacktoberfest.com/auth/)
     
+<br>    
+# 💻 Contributor's Guide
+Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/umilabsfikom/Hacktoberfest-2022/issues).
+
+Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://github.com/firstcontributions/first-contributions)
+
+<br>
+    
+    
 ## Contributing Steps
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) this project
@@ -29,13 +38,6 @@ Pull request and add any feature to the website.:octocat:
 4. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
 5. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
 6. Go to original project on GitHub & Create a [Pull Request](https://help.github.com/articles/about-pull-requests/)
-<br>
-
-# 💻 Contributor's Guide
-Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/umilabsfikom/Hacktoberfest-2022/issues).
-
-Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://github.com/firstcontributions/first-contributions)
-
 <br>
 
 # Contribution rules📚:
