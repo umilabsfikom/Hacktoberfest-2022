@@ -7,6 +7,24 @@ http://www.templatemo.com/preview/templatemo_421_raleway
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
+/* Smooth Scroll */
+html 
+{
+    scroll-behavior: smooth;
+}
+
+.icn{
+    transition: all 5.5s ease;
+}
+
+.icn:hover{
+    -webkit-text-fill-color: darkturquoise;
+}
+
+.project-pad{
+    padding: 40px;
+}
+
 .overlay h4 {
     position: relative;
     top: 50%;
